@@ -1,6 +1,5 @@
 import './css/App.css';
 import './css/bootstrap.min.css';
-// import React from 'react';
 import React from 'react';
 
 function mainSection() {
