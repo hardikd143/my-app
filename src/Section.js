@@ -7,7 +7,7 @@ function mainSection() {
     const element = <h1>Hello, world!</h1>;
     return (
         <>
-        <div className=' p-4 py-5 border border-dark rounded-3 shadow my-3'>
+        <div className=' my-5 p-4 pb-3 border border-dark rounded-3 shadow'>
             {element}
             <h3>This is third section imported by Section component</h3>
             <hr  />

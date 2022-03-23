@@ -7,6 +7,7 @@ import Section from './Section';
 import Header from './Header';
 import Footer from './Footer';
 
+
 function getAlert(){
   alert('this is alert message');
 }
@@ -16,7 +17,7 @@ function App() {
         <Header/>
         <div className='container'>
           <h1 className='bg-warning rounded-pill py-2'>Hello World</h1>
-          <div className='bg-dark p-4 py-5 text-white rounded-3 shadow my-3'>
+          <div className='bg-dark  my-5 p-4 pb-3 text-white rounded-3 shadow'>
             <h3>This is first section</h3>
             <hr  />
             <div className="row">
@@ -32,7 +33,7 @@ function App() {
             <button target='_blank' onClick={getAlert} className='btn  btn-outline-dark'>click me to get alert </button>
             <a href='https://www.applocum.com/' target='_blank' className='btn  btn-outline-dark'>Applocum</a>
           </div>
-          <div className='bg-danger my-3 p-4 py-5 text-dark rounded-3 shadow'>
+          <div className='bg-danger my-5 p-4 pb-3 text-dark rounded-3 shadow'>
             <h3>This is second section</h3>
             <hr  />
             <div className="row">

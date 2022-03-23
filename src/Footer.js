@@ -8,7 +8,7 @@ function Footer() {
                 d-flex order-1 order-lg-0 order-md-0
                 flex-column flex-lg-row flex-md-column flex-sm-column">
                 <div class="footer-left col-lg-6 col-md-12 col-sm-12">
-                    <h5 class="fw-bold text-blue">Contact Information</h5>
+                    <h2 class="fw-bold text-blue">Contact Information</h2>
                     <p class="  m-1">
                         <span class="fw-bold">Address </span>:
                         <a
@@ -45,7 +45,7 @@ function Footer() {
                     "
                     >
                     <div class="col-lg-4 col-md-4 col-sm-6 col-6">
-                        <h5 class="fw-bold ">Company</h5>
+                        <h2 class="fw-bold ">Company</h2>
                         <ul class="list-unstyled">
                             <li><a href="#about">About</a></li>
                             <li><a href="#">Blog Posts</a></li>
@@ -55,7 +55,7 @@ function Footer() {
                         </ul>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-6 col-6">
-                        <h5 class="fw-bold ">Support</h5>
+                        <h2 class="fw-bold ">Support</h2>
                         <ul class="list-unstyled">
                             <li><a href="#contact">Contact us</a></li>
                             <li><a href="#">Create account</a></li>
@@ -64,7 +64,7 @@ function Footer() {
                         </ul>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-6 col-6">
-                        <h5 class="fw-bold ">Product</h5>
+                        <h2 class="fw-bold ">Product</h2>
                         <ul class="list-unstyled">
                             <li><a href="#">Market</a></li>
                             <li><a href="#">VIP</a></li>
